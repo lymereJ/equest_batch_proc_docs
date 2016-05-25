@@ -1,5 +1,5 @@
 # Summary
 
-* [Description](README.md)
+* [Introduction](README.md)
 * [What can I do using eQUEST's batch processing capabilities?](chapter1.md)
 
