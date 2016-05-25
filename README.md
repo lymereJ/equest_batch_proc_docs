@@ -1,3 +1,3 @@
 # eQUEST Batch Processing Documentation
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This document provides a detailed documentation of the "Batch Processing" functionality of eQUEST.
