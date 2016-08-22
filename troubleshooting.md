@@ -1,6 +1,6 @@
 # Troubleshooting
 ## How to troubleshoot the batch processing
-Troubleshooting the a batch of simulation can be sometimes discouraging. When errors occurs only a limited amount of information is provided to the user. Four main locations can help the user troubleshoot an error.
+Troubleshooting a batch of simulation can be sometimes discouraging. When errors occur only a limited amount of information is provided to the user. The user can rely on the following four items to troubleshoot an error:
 1. The error message,
 2. The batch processing progress screen,
 3. The log file,
@@ -15,6 +15,14 @@ Troubleshooting the a batch of simulation can be sometimes discouraging. When er
 ### BDL File(s)
 
 ## Typical Errors
+### Missing EOF Character
+
+### Incorrect BDBase Keyword
+
+### Incorrect BDL Keyword
+
+### Missing Input File
+
 
 
 
