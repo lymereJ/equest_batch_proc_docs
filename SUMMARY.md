@@ -5,5 +5,5 @@
 * [Troubleshooting](troubleshooting.md)
 * [Sample Files](sample_files.md)
 * [Examples](examples.md)
-* Glossary
+* [Glossary](glossary.md)
 
