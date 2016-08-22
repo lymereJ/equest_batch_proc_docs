@@ -6,6 +6,6 @@ This document provides a detailed documentation of eQUEST's batch processing cap
 # What is a batch process?
 A good definition of batch processing can be found on [Wikipedia](https://en.wikipedia.org/wiki/Batch_processing) and is defined as follow:
 > Batch processing is the execution of a series of jobs in a program on a computer without manual intervention (non-interactive).
-> In 
+In the context of whole-building energy simulation, batch processing is the execution of a series of simulation without having interact with the simulation software.
 
 
