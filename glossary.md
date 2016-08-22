@@ -1,2 +1,12 @@
 # Glossary
 
+## BDL
+
+
+## BDBase
+
+
+
+
+
+
