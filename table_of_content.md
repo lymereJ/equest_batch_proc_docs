@@ -1,7 +1,7 @@
 # Table of Content
 
 * [Introduction](README.md)
-* [Functioning](functioning.
+* [Functioning](functioning.md)
 * [Troubleshooting](troubleshooting.md)
 * [Sample Files](sample_files.md)
 * [Examples](examples.md)
