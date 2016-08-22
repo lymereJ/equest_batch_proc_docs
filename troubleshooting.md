@@ -1,2 +1,8 @@
 # Troubleshooting
+## Type of errors
+### 
+
+
+
+
 
