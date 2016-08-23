@@ -1,4 +1,4 @@
 # Functioning
-The basic workflow of the batch processing is the following:
+The basic work-flow of the batch processing is the following:
  
-![Batch Processing Workflow](eQUEST-Batch-Processing.svg)
+![Batch Processing Work-flow](eQUEST-Batch-Processing.svg)
