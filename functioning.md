@@ -1,2 +1,3 @@
 # Functioning
 The basic workflow of the batch processing is the following:
+![](eQUEST-Batch-Processing.svg)
