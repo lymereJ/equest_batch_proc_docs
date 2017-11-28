@@ -5,4 +5,5 @@
 * [Troubleshooting](troubleshooting.md)
 * [Sample Files](sample_files.md)
 * [Examples](examples.md)
+* [Special Features](special-features.md)
 
